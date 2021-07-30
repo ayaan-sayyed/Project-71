@@ -1,0 +1,88 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+}
+
+img {
+    height: 600px;
+    width: 1500px;
+}
+
+.links:hover {
+    color: yellow;
+}
+
+#Contact iframe
+{
+    width: 100%;
+}
+h5{
+    color: yellow;
+}
+
+#BasketBall {
+    height: 600px;
+    width: 1000px;
+} 
+
+#Cricket {
+ height: 600px;
+    width: 1000px;
+} 
+
+#School {
+  height: 600px;
+    width: 1000px;
+}   
+
+.New_li {
+    margin-top: 14px;
+}
+
+.New_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.New_li img{
+    border-radius: 25px;
+}
+
+.New_li p{
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.school {
+    cursor: pointer;
+}
+
+.school hr{
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+#principal {
+    height: 500px;
+    width: 600px;
+}
+
+
+
